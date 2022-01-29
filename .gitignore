@@ -34,5 +34,8 @@ build/
 ### VS Code ###
 .vscode/
 
-### Application specific files ###
+### Astra ###
+secure-connect.zip
+
+### Developer files ###
 application-local.yml
