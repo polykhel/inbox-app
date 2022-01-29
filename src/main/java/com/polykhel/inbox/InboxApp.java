@@ -1,4 +1,4 @@
-package io.javabrains;
+package com.polykhel.inbox;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
